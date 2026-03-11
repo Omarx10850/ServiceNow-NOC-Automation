@@ -14,13 +14,13 @@ Data Quality Control: Developed UI Policies to enforce mandatory documentation. 
 Notification Engine: Built an automated Next Experience Notification system to alert the Network Support team immediately upon the creation of a Critical incident, reducing "Mean Time to Acknowledge" (MTTA).
 
 
-Evidence of Implementation:
-1. SLA Performance Tracking
+### **Evidence of Implementation**
+#### **1. SLA Performance Tracking**
 This screenshot demonstrates the active 2-hour countdown timer linked to our P1 NOC simulation.
 
 <img width="1607" height="272" alt="image" src="https://github.com/user-attachments/assets/2ccf04d9-1e3a-4a8e-a856-b6e8fdef3143" />
 
-2. Mandatory Field Enforcement (Data Integrity)
+#### **2. Mandatory Field Enforcement**
 This screenshot shows the UI Policy in action, blocking a "Resolve" attempt because the engineer failed to provide mandatory resolution details.
 
 <img width="1633" height="735" alt="image" src="https://github.com/user-attachments/assets/37d47e25-8992-41ad-a61a-a0d1c266596c" />
