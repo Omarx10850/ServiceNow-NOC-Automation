@@ -26,38 +26,5 @@ This screenshot shows the UI Policy in action, blocking a "Resolve" attempt beca
 <img width="1633" height="735" alt="image" src="https://github.com/user-attachments/assets/37d47e25-8992-41ad-a61a-a0d1c266596c" />
 
 
-Technical Artifacts:
-Update Set: <?xml version="1.0" encoding="UTF-8"?><unload unload_date="2026-03-11 21:15:32">
-<sys_remote_update_set action="INSERT_OR_UPDATE">
-<application display_value="Global">global</application>
-<application_name>Global</application_name>
-<application_scope>global</application_scope>
-<application_version/>
-<collisions/>
-<commit_date/>
-<deleted/>
-<description/>
-<inserted/>
-<name>ServiceNow_NOC_Automation_Day2</name>
-<origin_sys_id/>
-<parent display_value=""/>
-<release_date/>
-<remote_base_update_set display_value=""/>
-<remote_parent_id/>
-<remote_sys_id>345db329932332101e78f847dd03d605</remote_sys_id>
-<state>loaded</state>
-<summary/>
-<sys_class_name>sys_remote_update_set</sys_class_name>
-<sys_created_by>admin</sys_created_by>
-<sys_created_on>2026-03-11 21:15:31</sys_created_on>
-<sys_id>956873b993af72101e78f847dd03d6a2</sys_id>
-<sys_mod_count>0</sys_mod_count>
-<sys_updated_by>admin</sys_updated_by>
-<sys_updated_on>2026-03-11 21:15:31</sys_updated_on>
-<update_set display_value=""/>
-<update_source display_value=""/>
-<updated/>
-</sys_remote_update_set>
-</unload>
-
-This file contains all business rules, SLA definitions, and notification logic created during this session.
+### **Technical Artifacts**
+* **Update Set:** `ServiceNow_NOC_Automation_Day2.xml` (Included in repository)
