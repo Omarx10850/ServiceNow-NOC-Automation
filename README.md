@@ -1,4 +1,4 @@
-# Governance, SLA Management & Process Automation
+<img width="1607" height="272" alt="image" src="https://github.com/user-attachments/assets/2ccf04d9-1e3a-4a8e-a856-b6e8fdef3143" /># Governance, SLA Management & Process Automation
 Date: March 11, 2026
 
 Objective:
@@ -17,7 +17,7 @@ Evidence of Implementation
 1. SLA Performance Tracking
 This screenshot demonstrates the active 2-hour countdown timer linked to our P1 NOC simulation.
 
-[Insert your image_9bcd15.png here]
+![SLA Timer](image_9bcd15.png)
 
 2. Mandatory Field Enforcement (Data Integrity)
 This screenshot shows the UI Policy in action, blocking a "Resolve" attempt because the engineer failed to provide mandatory resolution details.
