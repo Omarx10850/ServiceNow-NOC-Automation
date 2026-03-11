@@ -1,5 +1,7 @@
-# Governance, SLA Management & Process Automation
-Date: March 11, 2026
+# ServiceNow NOC Automation Project
+
+## Day 2: Governance, SLA Management & Process Automation
+**Date:** March 11, 2026
 
 ### **Objective**
 To transform the basic incident logging system into a professional, ITIL-aligned NOC management platform. The focus was on implementing accountability (SLAs), data integrity (UI Policies), and automated communication.
