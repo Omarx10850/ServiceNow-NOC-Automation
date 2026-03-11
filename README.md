@@ -1,4 +1,4 @@
-<img width="1607" height="272" alt="image" src="https://github.com/user-attachments/assets/2ccf04d9-1e3a-4a8e-a856-b6e8fdef3143" /># Governance, SLA Management & Process Automation
+# Governance, SLA Management & Process Automation
 Date: March 11, 2026
 
 Objective:
@@ -17,12 +17,12 @@ Evidence of Implementation
 1. SLA Performance Tracking
 This screenshot demonstrates the active 2-hour countdown timer linked to our P1 NOC simulation.
 
-![SLA Timer](image_9bcd15.png)
+<img width="1607" height="272" alt="image" src="https://github.com/user-attachments/assets/2ccf04d9-1e3a-4a8e-a856-b6e8fdef3143" />
 
 2. Mandatory Field Enforcement (Data Integrity)
 This screenshot shows the UI Policy in action, blocking a "Resolve" attempt because the engineer failed to provide mandatory resolution details.
 
-[Insert your Screenshot 2 (The Red Error Message) here]
+<img width="1633" height="735" alt="image" src="https://github.com/user-attachments/assets/37d47e25-8992-41ad-a61a-a0d1c266596c" />
 
 Technical Artifacts
 Update Set: ServiceNow_NOC_Automation_Day2.xml
