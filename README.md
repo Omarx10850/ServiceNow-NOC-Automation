@@ -1,6 +1,6 @@
 # ServiceNow NOC Automation Project
 
-## Day 2: Governance, SLA Management & Process Automation
+Governance, SLA Management & Process Automation
 **Date:** March 11, 2026
 
 ### **Objective**
